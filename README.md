@@ -1,4 +1,4 @@
-<h1 align="center">FocusTimer - Dark Mode</h1>
+<h1 align="center">GitFav</h1>
 
 <p align="center">
 Esse projeto tem como objetivo de adicionar os perfis favoritos do Github. 
